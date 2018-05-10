@@ -1,0 +1,47 @@
+.bg-cart {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 45%;
+    z-index: -1;
+    background: url(https://images8.alphacoders.com/710/710329.jpg) -536px -87px no-repeat;
+}
+
+.cart-header-panel {
+    position: relative;
+    top: 15px;
+    z-index: 2;
+}
+
+.cart-header-panel a {
+    font-size: 1.5em;
+}
+
+.card-panel-cart {
+    position: relative;
+    top: -80px;
+    z-index: 1;
+    margin-top: 15px;
+}
+
+.cart-collection div.row {
+    margin-bottom: 0;
+}
+
+.cart-collection h5 {
+    margin-top: 0;
+} 
+
+.qtde-desc {
+    position: relative;
+    top: 15px;
+}
+
+.collection-item-cart {
+    margin-top: 5px !important;
+}
+
+.btn-cart {
+    transform: translateY(15px);
+}

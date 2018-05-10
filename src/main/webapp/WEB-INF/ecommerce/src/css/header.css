@@ -1,0 +1,26 @@
+.brand-logo > img{
+    width: 96px !important;
+}
+
+#searchNavBar::-webkit-input-placeholder {
+    color: #fff;
+}
+#searchNavBar:-moz-placeholder {
+    color: #909;
+    opacity: 1;
+}
+#searchNavBar::-moz-placeholder {
+    color: #909;
+    opacity: 1;
+}
+#searchNavBar:-ms-input-placeholder {
+    color: #909;
+}
+
+.sidenav-overlay {
+    z-index: 25 !important;
+}
+
+.navbar-fixed {
+    z-index: 22 !important;
+}

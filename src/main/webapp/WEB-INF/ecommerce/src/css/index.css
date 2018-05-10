@@ -1,0 +1,40 @@
+@media (min-width: 993px) {
+    .sidenav-filtro {
+        margin-top: 64px;
+    }
+}
+
+.sidenav-filtro {
+    z-index: 25 !important;
+}
+
+.sidenav-filtro fieldset {
+    margin: 0 10px;
+}
+
+#filter-sidenav .input-field.col label {
+    left: 0;
+    top: -5px;
+}
+
+@media (min-width: 993px) {
+    main.index-main {
+        margin-left: 300px;
+    }
+}
+
+.card-btn-detail {
+    right: 74px !important;
+}
+
+main.index-main {
+    z-index: -1;
+}
+
+.index-divider {
+    margin: 10px 0;
+}
+
+body {
+    color: #565656;
+}

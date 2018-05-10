@@ -1,0 +1,11 @@
+<web-app>    
+    <filter>
+       <filter-name>FilterAutentecacao</filter-name>
+       <filter-class>br.senac.pi3.servlets.Filter.FilterAutentecacao</filter-class>
+    </filter>
+
+    <filter-mapping>
+       <filter-name>FilterAutentecacao</filter-name>
+       <url-pattern>/protegido/*</url-pattern>
+    </filter-mapping>
+</web-app> 

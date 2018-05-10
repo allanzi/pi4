@@ -1,0 +1,16 @@
+<ul id="sidenav-carrinho" class="sidenav" ng-controller="cartController">
+    <li>
+        <h6 class="center">Carrinho</h6>
+    </li>
+    <li>
+        <div class="divider"></div>
+    <li>
+    <li class="produto" ng-repeat="produto in carrinho">
+        <fieldset class="center">
+            <legend class="truncate" style="max-width: 225px;">{{produto.nome}}</legend>
+            <img ng-src="{{produto.imagem}}" class="responsive-img" alt="">
+            <p class="yellow-text text-darken-4" style="margin: 0">R$ {{produto.valor | number: 2}}</p>
+            <a href="javascript:void(0);" ng-click="removerProduto(produto.id)">Remover produto</a>
+        </fieldset>
+    </li>
+</ul>

@@ -1,0 +1,255 @@
+{
+  "destaques": [
+    {
+      "id": 1,
+      "nome": "Far Cry 5",
+      "descricao": "Desenvolvedora: UBISOFT, Plataforma: Play Station 4, Código: 9411397",
+      "plataforma": "Playstation 4",
+      "valor": 249.90,
+      "imagem": "http://via.placeholder.com/320x240"
+    },
+    {
+      "id": 2,
+      "nome": "God Of War (Pré Venda)",
+      "descricao": "Desenvolvedora: Sony, Plataforma: Play Station 4, Código: 9651605",
+      "plataforma": "Playstation 4",
+      "valor": 199.90,
+      "imagem": "http://via.placeholder.com/320x240"
+    },
+    {
+      "id": 3,
+      "nome": "Fifa 18",
+      "descricao": "Desenvolvedora: EA Sports, Plataforma: Play Station 4, Código: 9370768",
+      "plataforma": "Playstation 4",
+      "valor": 129.90,
+      "imagem": "http://via.placeholder.com/320x240"
+    }
+  ],
+  "produtos": [
+    {
+      "id": 1,
+      "nome": "Far Cry 5",
+      "descricao": "Desenvolvedora: UBISOFT, Plataforma: Play Station 4, Código: 9411397",
+      "plataforma": "Playstation 4",
+      "valor": 249.90,
+      "imagem": "http://via.placeholder.com/320x240"
+    },
+    {
+      "id": 2,
+      "nome": "God Of War (Pré Venda)",
+      "descricao": "Desenvolvedora: Sony, Plataforma: Play Station 4, Código: 9651605",
+      "plataforma": "Playstation 4",
+      "valor": 199.90,
+      "imagem": "http://via.placeholder.com/320x240"
+    },
+    {
+      "id": 3,
+      "nome": "Fifa 18",
+      "descricao": "Desenvolvedora: EA Sports, Plataforma: Play Station 4, Código: 9370768",
+      "plataforma": "Playstation 4",
+      "valor": 129.90,
+      "imagem": "http://via.placeholder.com/320x240"
+    },
+    {
+      "id": 4,
+      "nome": "The Last Guardian",
+      "descricao": "Desenvolvedora: CD Projekt RED, Plataforma: Play Station 4, Código: 9369458",
+      "plataforma": "Playstation 4",
+      "valor": 129.90,
+      "imagem": "http://via.placeholder.com/320x240"
+    },
+    {
+      "id": 5,
+      "nome": "Injustice 2",
+      "descricao": "Desenvolvedora: NetherRealm Studios, Plataforma: Play Station 4, Código: 9639978",
+      "plataforma": "Playstation 4",
+      "valor": 249.9,
+      "imagem": "http://via.placeholder.com/320x240"
+    },
+    {
+      "id": 6,
+      "nome": "The Elder Scrolls V: Skyrim",
+      "descricao": "Desenvolvedora: BETHESDA, Plataforma: Play Station 4, Código: 9440273",
+      "plataforma": "Playstation 4",
+      "valor": 199.90,
+      "imagem": "http://via.placeholder.com/320x240"
+    },
+    {
+      "id": 7,
+      "nome": "Overwatch",
+      "descricao": "Desenvolvedora: Blizzard, Plataforma: Play Station 4, Código: 9131985",
+      "plataforma": "Playstation 4",
+      "valor": 179.9,
+      "imagem": "http://via.placeholder.com/320x240"
+    },
+    {
+      "id": 8,
+      "nome": "Resident Evil 7",
+      "descricao": "Desenvolvedora: CAPCOM, Plataforma: Play Station 4, Código: 9395587",
+      "plataforma": "Playstation 4",
+      "valor": 219.9,
+      "imagem": "http://via.placeholder.com/320x240"
+    },
+    {
+      "id": 9,
+      "nome": "Final Fantasy XV",
+      "descricao": "Desenvolvedora: SQUARE ENIX, Plataforma: Play Station 4, Código: 9351268",
+      "plataforma": "Playstation 4",
+      "valor": 249.9,
+      "imagem": "http://via.placeholder.com/320x240"
+    },
+    {
+      "id": 12,
+      "nome": "Outlast 2",
+      "descricao": "Desenvolvedora: Red Barrels, Plataforma: Play Station 4, Código: 9523460",
+      "plataforma": "Playstation 4",
+      "valor": 149.9,
+      "imagem": "http://via.placeholder.com/320x240"
+    },
+    {
+      "id": 13,
+      "nome": "PES 2018",
+      "descricao": "Desenvolvedora: KONAMI, Plataforma: Play Station 4, Código: 9363084",
+      "plataforma": "Playstation 4",
+      "valor": 109.90,
+      "imagem": "http://via.placeholder.com/320x240"
+    },
+    {
+      "id": 14,
+      "nome": "Overwatch",
+      "descricao": "Desenvolvedora: Blizzard, Plataforma: Xbox One, Código: 9319839",
+      "plataforma": "Xbox One",
+      "valor": 199.9,
+      "imagem": "http://via.placeholder.com/320x240"
+    },
+    {
+      "id": 15,
+      "nome": "Ghost Recon",
+      "descricao": "Desenvolvedora: UBISOFT, Plataforma: Xbox One, Código: 9416811",
+      "plataforma": "Xbox One",
+      "valor": 149.9,
+      "imagem": "http://via.placeholder.com/320x240"
+    },
+    {
+      "id": 16,
+      "nome": "Watch Dogs 2",
+      "descricao": "Desenvolvedora: UBISOFT, Plataforma: Xbox One, Código: 9384447",
+      "plataforma": "Xbox One",
+      "valor": 149.9,
+      "imagem": "http://via.placeholder.com/320x240"
+    },
+    {
+      "id": 17,
+      "nome": "For Honor",
+      "descricao": "Desenvolvedora: UBISOFT, Plataforma: Xbox One, Código: 9414777",
+      "plataforma": "Xbox One",
+      "valor": 159.9,
+      "imagem": "http://via.placeholder.com/320x240"
+    },
+    {
+      "id": 18,
+      "nome": "Console Xbox One 1TB Branco",
+      "descricao": "Desenvolvedora: Microsoft, Plataforma: Xbox One, Código: 9370771",
+      "plataforma": "Xbox One",
+      "valor": 1600,
+      "imagem": "http://via.placeholder.com/320x240"
+    },
+    {
+      "id": 19,
+      "nome": "Console PS4 500GB SLIM",
+      "descricao": "Desenvolvedora: Sony, Plataforma: PS4, Código: 9369461",
+      "plataforma": "Playstation 4",
+      "valor": 1500,
+      "imagem": "http://via.placeholder.com/320x240"
+    },
+    {
+      "id": 20,
+      "nome": "Controle Sem Fio DualShock Preto PS4",
+      "descricao": "Desenvolvedora: Sony, Plataforma: Controle, Código: 9479054",
+      "plataforma": "Controle",
+      "valor": 199.9,
+      "imagem": "http://via.placeholder.com/320x240"
+    },
+
+    {
+      "id": 21,
+      "nome": "CONTROLE SEM FIO XBOX ONE PRETO",
+      "descricao": "Desenvolvedora: Microsoft, Plataforma: Controle, Código: 9487967",
+      "plataforma": "Controle",
+      "valor": 249.9,
+      "imagem": "http://via.placeholder.com/320x240"
+    },
+    {
+      "id": 22,
+      "nome": "Playstation Câmera - Ps4",
+      "descricao": "Desenvolvedora: Sony, Plataforma: Câmera, Código: 9153641",
+      "plataforma": "Câmera",
+      "valor": 300.9,
+      "imagem": "http://via.placeholder.com/320x240"
+    },
+    {
+      "id": 23,
+      "nome": "PlayStation® Pulse Headset 7.1",
+      "descricao": "Desenvolvedora: Sony, Plataforma: Headset, Código: 9380186",
+      "plataforma": "Headset",
+      "valor": 350,
+      "imagem": "http://via.placeholder.com/320x240"
+    },
+    {
+      "id": 24,
+      "nome": "KIT OCULOS VR",
+      "descricao": "Desenvolvedora: Sony, Plataforma: VR, Código: 9369420",
+      "plataforma": "VR",
+      "valor": 1900,
+      "imagem": "http://via.placeholder.com/320x240"
+    },
+    {
+      "id": 25,
+      "nome": "Volante Racer Para Xbox One 2 Pedais Js077 Multilaser",
+      "descricao": "Desenvolvedora: Multilaser, Plataforma: Volante, Código: 9346537",
+      "plataforma": "Volante",
+      "valor": 400,
+      "imagem": "http://via.placeholder.com/320x240"
+    },
+    {
+      "id": 26,
+      "nome": "Volante Gamer G29 Driving Force Para Ps4",
+      "descricao": "Desenvolvedora: Logitech, Plataforma: Play Station 4, Código: 9168486",
+      "plataforma": "Playstation 4",
+      "valor": 1299,
+      "imagem": "http://via.placeholder.com/320x240"
+    },
+    {
+      "id": 27,
+      "nome": "Caneca Soco Inglês 350ML Doctor Strange",
+      "descricao": "Desenvolvedora: Zona Criativa, Plataforma: Caneca, Código: 9351269",
+      "plataforma": "Caneca",
+      "valor": 249.9,
+      "imagem": "http://via.placeholder.com/320x240"
+    },
+    {
+      "id": 28,
+      "nome": "Winston 6 (OVERWATCH) - Funko",
+      "descricao": "Desenvolvedora: Funko, Plataforma: Funko, Código: 9280736",
+      "plataforma": "Funko",
+      "valor": 129.9,
+      "imagem": "http://via.placeholder.com/320x240"
+    },
+    {
+      "id": 29,
+      "nome": "Leon Kennedy (RESIDENT EVIL) - Funko",
+      "descricao": "Desenvolvedora: Funko, Plataforma: Funko, Código: 9395590",
+      "plataforma": "Funko",
+      "valor": 89.9,
+      "imagem": "http://via.placeholder.com/320x240"
+    },
+    {
+      "id": 30,
+      "nome": "Blanka (STREET FIGHTER) - Funko",
+      "descricao": "Desenvolvedora: Funko, Plataforma: Funko, Código: 9258976",
+      "plataforma": "Funko",
+      "valor": 80,
+      "imagem": "http://via.placeholder.com/320x240"
+    }
+  ]
+}

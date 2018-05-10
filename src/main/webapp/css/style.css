@@ -1,0 +1,247 @@
+/* Custom Stylesheet */
+/**
+ * Use this file to override Materialize files so you can update
+ * the core Materialize files in the future
+ *
+ * Made By MaterializeCSS.com
+ */
+body {
+    margin-bottom: 348px;
+}
+
+html {
+    min-height: 100%;
+    position: relative
+}
+
+footer div.center p {
+    color: #fff;
+}
+
+.em-breve {
+    transform: rotateZ(35deg);
+    color: red;
+    position: relative;
+    top: -137px;
+    left: 12px;
+    font-size: 3em;
+    width: 150%;
+}
+
+.progress-button {
+    bottom: 25px;
+    z-index: 10;
+    display: none;
+}
+
+#container-products .brand-logo {
+    font-size: 1.6rem !important;
+}
+
+.btn-products-search {
+    width: 100%;
+    margin-bottom: 1rem;
+}
+
+.bold {
+    font-weight: bold;
+}
+
+.btn-close-item i {
+    font-size: 1rem;
+    position: relative;
+    bottom: 6px;
+    left: .4px;
+}
+
+.btn-close-item {
+    bottom: 29px !important;
+    width: 25px;
+    height: 25px;
+}
+
+.card-products-title {
+    margin: 0 !important;
+}
+
+.card-products-item {
+    padding: 10px 24px !important;
+}
+
+#card-products-container {
+    padding: 0 !important;
+}
+
+.container-fluid {
+    padding: 0 25px !important;
+}
+
+nav ul a,
+nav .brand-logo {
+    color: #444;
+}
+
+p {
+    line-height: 2rem;
+}
+
+.button-collapse {
+    color: #26a69a;
+}
+
+.parallax-container {
+    min-height: 380px;
+    line-height: 0;
+    height: auto;
+    color: rgba(255,255,255,.9);
+}
+.parallax-container .section {
+    width: 100%;
+}
+
+@media only screen and (max-width : 992px) {
+    .parallax-container .section {
+        position: absolute;
+        top: 40%;
+    }
+    #index-banner .section {
+        top: 10%;
+    }
+}
+
+@media only screen and (max-width : 600px) {
+    #index-banner .section {
+        top: 0;
+    }
+}
+
+.icon-block {
+    padding: 0 15px;
+}
+.icon-block .material-icons {
+    font-size: inherit;
+}
+#tela-inicio .material-icons
+{
+    font-size: 14em;
+
+}
+
+
+footer.page-footer {
+    margin: 0;
+    bottom: 0;
+    position: absolute;
+    width: 100%;
+}
+
+main#tela-inicio .material-icons {
+    transition: all ease .8s;
+}
+
+main#tela-inicio .material-icons:hover {
+    color: #191919;
+}
+
+#fornecedor 
+{
+    position: auto;
+    color: #565656;
+
+}
+
+#estoque
+{
+    position: auto;
+    color: #565656;
+}
+
+#cliente
+{
+    position: auto;
+    color: #565656;
+}
+
+#ti
+{
+    position: auto;
+    color: #565656;
+}
+
+@-webkit-keyframes fadeIn {
+    0% { opacity: 0; }
+    100% { opacity: 1; } 
+}
+@-moz-keyframes fadeIn {
+    0% { opacity: 0;}
+    100% { opacity: 1; }
+}
+@-o-keyframes fadeIn {
+    0% { opacity: 0; }
+    100% { opacity: 1; }
+}
+@keyframes fadeIn {
+    0% { opacity: 0; }
+    100% { opacity: 1; }
+}
+
+.fadeIn {
+    -webkit-animation: fadeIn 3s ease-in-out;
+    -moz-animation: fadeIn 3s ease-in-out;
+    -o-animation: fadeIn 3s ease-in-out;
+    animation: fadeIn 3s ease-in-out;
+}
+
+.loaderBox{
+    width: 100%;
+    height: 100%;
+
+    position: fixed;
+    top: 0;
+    left: 0;
+}
+
+.loadAnim{
+    width: 200px;
+    height: 200px;
+    background: #fff;
+    margin-top: 20%;
+    margin-left: 40%;
+    position: relative;
+}
+
+.loadeAnim1
+{
+    position: absolute;
+    width: 150px;
+    height: 150px;
+    border-radius: 100%;
+    border:10px solid transparent;
+    border: 10px solid #3498db;
+
+}
+
+canvas {
+    position: absolute;
+    top: 0;
+    z-index: -1;
+}
+
+.container-login {
+    display: inline-block;
+    padding: 32px 48px 0;
+    border: 1px solid #EEE;
+    background-color: rgba(224,224,224,.6);
+    max-width: 411px;
+    -vendor-animation-delay: .4s;
+    -webkit-animation-delay: .4s;
+}
+
+footer .select-wrapper .caret{
+    color: #fff;
+}
+
+body {
+    color: #565656 !important;
+}
+

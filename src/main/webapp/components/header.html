@@ -1,0 +1,35 @@
+<div class="navbar-fixed" ng-controller="headerController">
+    <nav class="red darken-1">
+        <div class="nav-wrapper">
+            <a href="index.html" class="brand-logo center"><img src="imgs/logo.png" alt=""></a>
+            <a href="#mobile-sidenav" class="sidenav-trigger button-collapse" ng-click="toggleMobileMenu()"><i
+                    class="material-icons">menu</i></a>
+            <ul id="nav-mobile" class="left hide-on-med-and-down">
+                <li><a href="${pageContext.request.contextPath}/index"><i class="material-icons left">home</i> Início</a></li>
+                <li><a href="login.html"><i class="material-icons left">account_circle</i> Minha Conta</a></li>
+            </ul>
+
+            <ul class="right">
+                <li><a href="#" ng-click="toggleCarrinho()"><i class="material-icons left">shopping_cart</i>
+                    Carrinho</a></li>
+            </ul>
+
+            <form class="right hide-on-med-and-down">
+                <div class="input-field white-text">
+                    <input id="searchNavBar" type="search" placeholder="O que procura?" required>
+                    <label class="label-icon" for="searchNavBar"><i class="material-icons">search</i></label>
+                    <i class="material-icons">close</i>
+                </div>
+            </form>
+        </div>
+    </nav>
+</div>
+
+<ul class="sidenav" id="mobile-sidenav">
+    <li><a href="index.html"><i class="material-icons left">home</i> Início</a></li>
+    <li class="divider"></li>
+    <li><a href="#!"><i class="material-icons left">account_circle</i> Minha Conta</a></li>
+    <li class="divider"></li>
+</ul>
+
+<div ng-include="'components/cart-sidenav.html'"></div>

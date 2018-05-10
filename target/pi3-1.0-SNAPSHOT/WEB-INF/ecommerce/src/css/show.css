@@ -1,0 +1,33 @@
+.show-breadcrump {
+    margin-left: 12px;
+}
+
+.show-breadcrump .breadcrumb:before {
+    color: #607d8b !important;
+}
+
+.preco-antes {
+    margin-bottom: 0;
+}
+
+.preco-depois {
+    margin-top: 0;
+}
+
+.sem-sombra nav{
+    -webkit-box-shadow: none !important;
+    -moz-box-shadow: none !important;
+    box-shadow: none !important;
+}
+
+blockquote {
+    border-left: 5px solid #e53935;
+}
+
+.card-show-panel {
+    margin-top: 0px;
+}
+
+.nav-show .brand-logo {
+    font-size: 1.5em;
+}
